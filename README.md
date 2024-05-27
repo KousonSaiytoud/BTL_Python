@@ -1,15 +1,11 @@
 # BTL_Python
 # Họ và tên:Kouson Mosaky
 # MSSV:LAOS195089
-# tên đề tài:xây website theo dõi trận đua xe MOTO GP
+# tên đề tài:xây website theo dõi giá tiến kip(LAK) to VND
 
 ## 1.Cơ Sở Dữ Liệu:
 
-- Bảng Trận Đua (Races): Lưu trữ thông tin về các trận đua MotoGP.
-- Bảng Tay Đua (Riders): Lưu trữ thông tin về các tay đua MotoGP.
-- Bảng Đội (Teams): Lưu trữ thông tin về các đội đua MotoGP.
-- Bảng Kết Quả (Results): Lưu trữ kết quả của các trận đua.
-- Bảng Thống Kê (Statistics): Lưu trữ các thông tin thống kê về các trận đua và tay đua.
+-bảng Money:để lứu trữ các thông tin cụ thể liên quan đến giao dịch tiền tệ.
   
 ## 2.Module Đọc Dữ Liệu:
 - Sử dụng Python và FastAPI để tạo một API để truy cập dữ liệu từ cơ sở dữ liệu và cung cấp cho trang web.
